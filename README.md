@@ -1,6 +1,6 @@
 you are here is a project from the social computing group active from 2014 to 2015
 
-we are no longer updating and mainting the project site and maps. This is a list of the map code repos for each of the project's maps. 
+we are no longer updating and maintaining the project site and maps. This is a list of the map code repos for each of the project's maps. 
 I will be uploading and organizing the maps here over the next weeks.
 
 
